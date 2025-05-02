@@ -1,5 +1,7 @@
 # File server
 
+<sub>This repo was originally a submission to the CrazyCo Christmas Challenge 2024. After nothing happened for months, I decided to make my own repo for it.</sub>
+
 This is my entry to the [2024 Christmas Coding Challenge by CrazyCo](CHALLENGE.md). If you just want to run this
 application yourself and not read tons of text, feel free to head down to [How to run](#how-to-run).
 
